@@ -41,7 +41,6 @@ O vídeo apresenta a evolução do projeto, mostrando o funcionamento do protót
 | Nome | RM | Função |
 |------|----|--------|
 | **Igor Neris Soares Alves** | RM560088 | 
-| **Édipo Borges de Carvalho** | RM567164 | 
 | **Guilherme Jun Conheci** | RM559986 | 
 
 ---
