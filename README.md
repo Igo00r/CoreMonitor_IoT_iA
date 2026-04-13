@@ -115,7 +115,7 @@ Este repositório reúne os principais artefatos do projeto, incluindo:
 ## 📹 Vídeo Pitch
 
 🎥 **Vídeo pitch do projeto:**  
-👉 **[INSERIR LINK DO VÍDEO PITCH AQUI]**
+👉 **https://youtu.be/9DPN7liI8rU**
 
 > O vídeo apresentará a ideia central do CoreMonitor, a integração entre IoT, Oracle APEX e banco de dados, além da proposta de Inteligência Artificial aplicada à previsão de custos operacionais.
 
